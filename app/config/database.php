@@ -49,7 +49,7 @@ return array(
             'driver'    => 'mysql',
             'host'      => 'localhost',
             'database'  => 'sistema',// Nombre de la base de datos
-            'username'  => 'root', // Usuario de la base de datos
+            'username'  => 'fdjbhfb', // Usuario de la base de datos
             'password'  => '', // Clave del usuario
             'charset'   => 'utf8',
             'collation' => 'utf8_spanish_ci',
