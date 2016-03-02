@@ -25,6 +25,7 @@ Route::get('/', function()
 
     $vendedores = Vendedor::with('productos')->get();
     return View::make('inicio', array('vendedores'=> $vendedores));
+    return View::make('inicio', array('vendedores'=> $vendedores));
 
 
 });
